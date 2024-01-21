@@ -2,7 +2,7 @@
 <img src = "../Imagenes/Biblioteca.jpeg">
 
 
-#Proyecto Biblioteca
+# Proyecto Biblioteca
 
 ## ¿En qué consiste este proyecto?
 Este proyecto consiste en desarrollar un sistema que simule la gestión de una biblioteca en el que los trabajadores puedan buscar, prestar y devolver los libros que soliciten los usuarios.
