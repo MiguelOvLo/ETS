@@ -29,6 +29,7 @@ Libro, Usuario, Préstamo, Biblioteca, EmpleadoBiblioteca, CategoriaLibro, Reser
 |---|---|
 | Préstamo  | Es una relación uno a muchos (Un libro puede tener varios préstamos). |
 | Comentarios  | Es una relación uno a muchos (Un libro puede tener varios comentarios).
+| Editorial  | Es una relación muchos a uno (Un libro puede ser publicado por una editorial).
 | CategoríaLibro | Es una relación muchos a muchos (Un libro puede pertenecer a varias categorías y una categoría puede tener varios libros).  |
 
 | Usuario | Conexión |
@@ -46,6 +47,26 @@ Libro, Usuario, Préstamo, Biblioteca, EmpleadoBiblioteca, CategoriaLibro, Reser
 | Libros  | Es una relación uno a muchos (Una biblioteca contiene varios libros). |
 | Usuario  | Es una relación uno a muchos (Una biblioteca tiene a varios usuarios registrados).|
 | Reserva | Es una relación uno a muchos (Una biblioteca puede tener varias reservas). |
+
+|  CategoríaLibro | Conexión | 
+|---|---|
+| Libros  | Es una relación muchos a muchos (Una categoría puede terner varios libros).|
+
+|  Reserva | Conexión | 
+|---|---|
+| Biblioteca  | Es una relación muchos a uno (Varias reservas pueden estar relacionadas con una biblioteca).|
+| Usuario  | Es una relación muchos a uno (Varias reservas pueden estar relacionadas con un usuario).|
+| Libro  | Es una relación muchos a uno  (Varias reservas pueden estar relacionadas con un libro).|
+
+|  Editorial | Conexión | 
+|---|---|
+| Libro  | Es una relación uno a muchos (Una editorial puede tener varios libros publicados).|
+
+|  EmpleadoBiblioteca | Conexión | 
+|---|---|
+| Biblioteca | Es una relación muchos a uno (Varios empleados pueden trabajar en una biblioteca).|
+
+
 
 
 
