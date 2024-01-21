@@ -6,6 +6,12 @@
 ## Actores
 
 
+
+
+
+
+
+
 |  Actor | Usuario |
 |---|---|
 | Descripción  | Usuario que acude a la biblioteca |
@@ -40,9 +46,31 @@
 | Número de empleado| Número de empleado del Bibliotecario|
 | Horario Laboral | Horario del Bibliotecario|
 ||
+
+
+## Casos de Uso 
 
 
-## Casos de Uso
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 |  Caso de Uso | C.U.1:  Buscar Libro  |
 |---|---|
@@ -188,7 +216,9 @@
 |  Requerimientos |
 |  Notas |
 | Autor  | Miguel Ovalle López |
-|Fecha | 21/01/2024 |
+|Fecha | 21/01/2024 |
+
 ## Diagrama
 
 </div>
+
