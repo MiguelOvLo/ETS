@@ -4,7 +4,8 @@
 # Diagrama-casos-de-uso
 
 ## Actores
-<img src = "../proyecto-biblioteca-main/Imagenes/Actores.jpg">
+
+<img src = "proyecto-biblioteca-main/Imagenes/Actores.jpg">
 
 |  Actor | Usuario |
 |---|---|
@@ -40,31 +41,10 @@
 | Número de empleado| Número de empleado del Bibliotecario|
 | Horario Laboral | Horario del Bibliotecario|
 ||
-
 
 ## Casos de Uso 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src = "proyecto-biblioteca-main/Imagenes/Casos de uso.jpg">
 
 |  Caso de Uso | C.U.1:  Buscar Libro  |
 |---|---|
@@ -213,6 +193,9 @@
 |Fecha | 21/01/2024 |
 
 ## Diagrama
+
+<img src = "proyecto-biblioteca-main/Imagenes/Diagrama.jpg">
+
 
 </div>
 
