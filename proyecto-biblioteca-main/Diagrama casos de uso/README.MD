@@ -5,7 +5,7 @@
 
 ## Actores
 
-<span> https://github.com/MiguelOvLo/ETS/blob/main/proyecto-biblioteca-main/Imagenes/Actores.jpg?raw=true </span>
+<span>https://raw.githubusercontent.com/ETS/proyecto-biblioteca-main/master/Imagenes/Actores.jpg</span><span>)</span>
 
 |  Actor | Usuario |
 |---|---|
