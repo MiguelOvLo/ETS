@@ -18,7 +18,7 @@
 |||
 
 |  Atributos |||
-|---|---|---|
+|---|---|
 | Nombre  | Nombre del Usuario|
 | Número de identificación | Número de identificación|
 | Historial de préstamos | Historial de préstamos|
