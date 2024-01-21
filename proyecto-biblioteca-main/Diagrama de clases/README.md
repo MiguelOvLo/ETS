@@ -1,4 +1,10 @@
+<div align = “justify">
+
 # Diagrama-de-clases
+
+# Diagrama
+<img src = "../Imagenes/Diagrama de clases proyecto.jpg">
+
 ## Clases
 Libro, Usuario, Préstamo, Biblioteca, EmpleadoBiblioteca, CategoriaLibro, Reserva, Editorial, Evento, Comentario.
 
@@ -26,8 +32,4 @@ Comentario: usuario que hizo el comentario, libro comentado, texto del comentari
 
 
 
-
-
-
-
-![Diagrama de clases proyecto drawio(1)](https://github.com/MiguelOvLo/Diagrama-de-clases/assets/148881780/633cb4b2-fb3b-4620-88c3-72a2cf4844cb)
+</div>
