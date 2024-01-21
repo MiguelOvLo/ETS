@@ -7,6 +7,7 @@
 
 <img src = "../Imagenes/Actores.jpg">
 
+
 |  Actor | Usuario |
 |---|---|
 | Descripción  | Usuario que acude a la biblioteca |
