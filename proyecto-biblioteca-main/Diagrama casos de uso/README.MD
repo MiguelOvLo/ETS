@@ -35,7 +35,7 @@
 |Fecha | 21/01/2024 |
 
 |  Atributos ||
-|---|---|---|
+|---|---|
 | Nombre  | Nombre del Bibliotecario|
 | Número de empleado| Número de empleado del Bibliotecario|
 | Horario Laboral | Horario del Bibliotecario|
