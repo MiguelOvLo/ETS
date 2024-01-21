@@ -17,7 +17,7 @@
 |Fecha | 21/01/2024 |
 |||
 
-|  Atributos |||
+|  Atributos ||
 |---|---|---|
 | Nombre  | Nombre del Usuario |
 | Número de identificación | Número de identificación ||
