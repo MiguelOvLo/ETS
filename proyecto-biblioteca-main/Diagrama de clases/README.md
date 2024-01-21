@@ -5,9 +5,6 @@
 ## Diagrama
 <img src = "../Imagenes/Diagrama de clases proyecto.jpg">
 
-## Clases
-Libro, Usuario, Préstamo, Biblioteca, EmpleadoBiblioteca, CategoriaLibro, Reserva, Editorial, Evento, Comentario.
-
 ## Atributos
 
 |Clases|Atributos|
@@ -30,6 +27,7 @@ Libro, Usuario, Préstamo, Biblioteca, EmpleadoBiblioteca, CategoriaLibro, Reser
 | Préstamo  | Es una relación uno a muchos (Un libro puede tener varios préstamos). |
 | Comentarios  | Es una relación uno a muchos (Un libro puede tener varios comentarios).
 | Editorial  | Es una relación muchos a uno (Un libro puede ser publicado por una editorial).
+| Evento  | Es una relación muchos a muchos (Un libro puede Estar en varios eventos).
 | CategoríaLibro | Es una relación muchos a muchos (Un libro puede pertenecer a varias categorías y una categoría puede tener varios libros).  |
 
 | Usuario | Conexión |
@@ -66,6 +64,15 @@ Libro, Usuario, Préstamo, Biblioteca, EmpleadoBiblioteca, CategoriaLibro, Reser
 |---|---|
 | Biblioteca | Es una relación muchos a uno (Varios empleados pueden trabajar en una biblioteca).|
 
+|  Evento | Conexión | 
+|---|---|
+| Libros  | Es una relación muchos a muchos (En un evento puede haber varios libros).|
+|   | Es una relación  ().|
+
+|  Comentario | Conexión | 
+|---|---|
+| Libro  | Es una relación muchos a uno (Se pueden hacer varios comentarios sobre un libro).|
+| Usuario  | Es una relación muchos a uno (Un usuario puede escribir varios comentarios).|
 
 
 
