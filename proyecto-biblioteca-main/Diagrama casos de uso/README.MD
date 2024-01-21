@@ -4,7 +4,7 @@
 # Diagrama-casos-de-uso
 
 ## Actores
-<img src = /Users/miguel/Downloads/Actores.jpg>
+<img src = proyecto-biblioteca-main/Imagenes/Actores.jpg>
 
 |  Actor | Usuario |
 |---|---|
