@@ -5,7 +5,7 @@
 
 ## Actores
 
-<img src = "proyecto-biblioteca-main/Imagenes/Actores.jpg">
+<img src = "../Imagenes/Actores.jpg">
 
 |  Actor | Usuario |
 |---|---|
