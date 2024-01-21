@@ -4,7 +4,7 @@
 # Diagrama-casos-de-uso
 
 ## Actores
-https://github.com/MiguelOvLo/ETS/blob/main/proyecto-biblioteca-main/Imagenes/Actores.jpg?raw=true
+<img src = /Users/miguel/Downloads/Actores.jpg>
 |  Actor | Usuario |
 |---|---|
 | Descripción  | Usuario que acude a la biblioteca |
