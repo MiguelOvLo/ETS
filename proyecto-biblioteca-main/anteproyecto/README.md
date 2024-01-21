@@ -9,7 +9,7 @@ Este proyecto consiste en desarrollar un sistema que simule la gestión de una b
 El sistema dispondrá de una interfaz de ususario simple (Main con menú) y proporcionará funcionalidades básicas relacionadas con los libros como obtener información, prestar libros, agregar comentarios, consultar comentarios, verificar disponibilidad...
 Además el sistema permitirá dar de alta, modificar, buscar y eliminar tanto usuarios como libros.
 
-## [Diagrama casos de uso](https://github.com/MiguelOvLo/ETS/blob/main/proyecto-biblioteca-main/Imagenes/Actores.jpg)
+## [Diagrama casos de uso](https://github.com/MiguelOvLo/ETS/tree/main/proyecto-biblioteca-main/Diagrama%20casos%20de%20uso)
 
 ## [Diagrama de clases](https://github.com/MiguelOvLo/ETS/tree/main/proyecto-biblioteca-main/Diagrama%20de%20clases)
 
