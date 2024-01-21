@@ -4,7 +4,7 @@
 # Diagrama-casos-de-uso
 
 ## Actores
-< img src = "Captura de pantalla 2024-01-21 a las 16.42.26.jpg">
+https://github.com/MiguelOvLo/ETS/blob/main/proyecto-biblioteca-main/Imagenes/Actores.jpg?raw=true
 |  Actor | Usuario |
 |---|---|
 | Descripción  | Usuario que acude a la biblioteca |
