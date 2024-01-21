@@ -5,6 +5,7 @@
 
 ## Actores
 <img src = /Users/miguel/Downloads/Actores.jpg>
+
 |  Actor | Usuario |
 |---|---|
 | Descripción  | Usuario que acude a la biblioteca |
