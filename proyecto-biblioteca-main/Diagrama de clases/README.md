@@ -30,7 +30,7 @@ Evento: nombre del evento, fecha, descripción, lista de libros relacionados con
 Comentario: usuario que hizo el comentario, libro comentado, texto del comentario
 
 | Atributos |
-|—-|—-|
+|---|---|
 |Libro| ISBN, título, autor, año de publicación, cantidad de copias disponibles. |
 
 |Usuario| Nombre, número de identificación, historial de préstamos. |
