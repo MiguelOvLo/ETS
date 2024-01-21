@@ -44,7 +44,7 @@
 
 ## Casos de Uso 
 
-<img src = "proyecto-biblioteca-main/Imagenes/Casos de uso.jpg">
+<img src = "../Imagenes/Casos de uso.jpg">
 
 |  Caso de Uso | C.U.1:  Buscar Libro  |
 |---|---|
@@ -194,7 +194,7 @@
 
 ## Diagrama
 
-<img src = "proyecto-biblioteca-main/Imagenes/Diagrama.jpg">
+<img src = "../Imagenes/Diagrama.jpg">
 
 
 </div>
