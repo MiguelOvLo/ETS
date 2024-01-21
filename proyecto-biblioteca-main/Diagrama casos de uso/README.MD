@@ -1,7 +1,7 @@
 
 <div align = “justify">
 
-# Diagrama-casos-de-uso
+# Diagrama casos de uso
 
 ## Actores
 
