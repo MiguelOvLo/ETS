@@ -11,7 +11,6 @@
 
 
 
-
 |  Actor | Usuario |
 |---|---|
 | Descripción  | Usuario que acude a la biblioteca |
