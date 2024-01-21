@@ -29,28 +29,28 @@ Evento: nombre del evento, fecha, descripción, lista de libros relacionados con
 
 Comentario: usuario que hizo el comentario, libro comentado, texto del comentario
 
-| Atributos |
+| Atributos ||
 |---|---|
-|Libro| ISBN, título, autor, año de publicación, cantidad de copias disponibles. |
+| Libro | ISBN, título, autor, año de publicación, cantidad de copias disponibles. |
 
-|Usuario| Nombre, número de identificación, historial de préstamos. |
+| Usuario | Nombre, número de identificación, historial de préstamos. |
 
-|Préstamo| Fecha de préstamo, fecha de devolución prevista, libro prestado, usuario que lo solicitó. |
+| Préstamo | Fecha de préstamo, fecha de devolución prevista, libro prestado, usuario que lo solicitó. |
 
-|Biblioteca| Lista de libros disponibles, lista de usuarios registrados, historial de préstamos. |
+| Biblioteca | Lista de libros disponibles, lista de usuarios registrados, historial de préstamos. |
 
-|EmpleadoBiblioteca| Nombre, número de empleado, horario laboral. |
+| EmpleadoBiblioteca | Nombre, número de empleado, horario laboral. |
 
-|CategoriaLibro | Nombre de la categoría, descripción, lista de libros en la categoría. |
+| CategoriaLibro | Nombre de la categoría, descripción, lista de libros en la categoría. |
 
-|Reserva| Usuario que hizo la reserva, libro reservado, fecha de vencimiento de la reserva. |
+| Reserva | Usuario que hizo la reserva, libro reservado, fecha de vencimiento de la reserva. |
 
-|Editorial| Nombre de la editorial, lista de libros publicados. |
+| Editorial| Nombre de la editorial, lista de libros publicados. |
 
-|Evento| Nombre del evento, fecha, descripción, lista de libros relacionados con el evento. |
+| Evento | Nombre del evento, fecha, descripción, lista de libros relacionados con el evento. |
 
-|Comentario| Usuario que hizo el comentario, libro comentado, texto del comentario. |
-|||
+| Comentario | Usuario que hizo el comentario, libro comentado, texto del comentario. |
+||||
 
 
 
